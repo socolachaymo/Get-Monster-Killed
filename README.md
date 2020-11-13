@@ -6,5 +6,5 @@ It is not a complete game yet, just the basics of how we can have a main charact
 This is how the game looks like:
 
 <p align='center'>
-<img src='images/screenshot.PNG'/>
+<img src='Images/screenshot.PNG'/>
 </p>
