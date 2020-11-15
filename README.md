@@ -1,6 +1,6 @@
-# 2048
+# Get-Monster-Killed
 ### About the game
-It is not a complete game yet, just the basics of how we can have a main character killing the monster character on a 2D screen with music and sound effects. The main character can walk forward and backward, jump and shoot the monster to get scores.
+It is not a complete game yet, just a proof of concept implementation of a 2D platformer/shooter. The main character can walk forward and backward, jump and shoot the monster to get scores.
 
 ### Screenshot
 This is how the game looks like:
